@@ -1,5 +1,7 @@
 # GAMEBOY-FLASHCART-MBC1
 
+An untested MBC1 based flash cart.
+
 This is an untested flash cart for the Gameboy. I've made many other flash carts but thought that these would be more popular being compatible with the InsideGadgets GBxCart RW.
 I would reccomend making the MBC5 version flashcart due to it being compatible with more games. The reason to build this is if there is a game that doesn't work on the MBC5 cartridge.
 I will build this to make myself a dedicated Zelda - Links Awakening cartridge. That is an MBC1 based game that doesn't work on the MBC5 based cartridge.
