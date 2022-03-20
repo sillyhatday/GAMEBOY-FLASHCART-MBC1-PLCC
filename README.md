@@ -8,10 +8,9 @@ You are limited the 512KB game sizes with this cartridge. This shouldn't ever be
 
 The difficulty of making such a device these days is, when the Gameboy was released, the 8-bit era was already on the way out. So 33 years later, parts are not readily available. I'm not sure how other people manage to aquire a consistant supply of components.
 
-![Gameboy MBC1 Cart + FRAM 2](https://user-images.githubusercontent.com/65309612/159166205-cb88fab6-66ef-4fcd-83d7-5b36aa37ef67.jpg)
-
 ![Gameboy MBC1 Cart + FRAM](https://user-images.githubusercontent.com/65309612/159166206-e805b48b-a37f-4045-ac42-eaf347163782.jpg)
 
+![Gameboy MBC1 Cart + FRAM 2](https://user-images.githubusercontent.com/65309612/159166205-cb88fab6-66ef-4fcd-83d7-5b36aa37ef67.jpg)
 
 **EEPROM 29F040B**
 
