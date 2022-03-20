@@ -22,6 +22,7 @@ The FM1808 was discontinued in 2008 and replaced by the FM18W08 which should be 
 The FM1808 is what I have tested, but there should be no reason the FM18W08 shouldn't work.
 
 **Memory Controller MBC1**
+
 This is the most expensive part of the cartridge. Not as easy to get as an MBC5 as they were in every dam Gameboy Colour game. The MBC1 was early on in the Gameboys life where a lot 
 of games were still not even using a memory controller or needed very little SRAM space. So a lot of the cheap or crap games these days have an MBC2 inside. For that reason I'll not be making batches of these for sale.
 
