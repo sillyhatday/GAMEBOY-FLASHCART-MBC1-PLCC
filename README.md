@@ -1,3 +1,5 @@
+Using footprints from https://github.com/HDR Be sure to check out their designs as well.
+
 # GAMEBOY-FLASHCART-MBC1
 
 This is an untested flash cart for the Gameboy. I've made many other flash carts but thought that these would be more popular being compatible with the InsideGadgets GBxCart RW.
